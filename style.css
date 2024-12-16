@@ -1,0 +1,11 @@
+h1{
+    color: rgb(85, 8, 239);/*This is just use our heading word on our
+     website this rgb color use decide favorite color*/
+}
+
+img{
+    width: 100%;/*This is our website width occupide full 
+    screen if you want and you want decrease this width 
+    decrease the image size on our website screen*/
+    height: 400px;/*This is just use height on our images on this website*/
+}
